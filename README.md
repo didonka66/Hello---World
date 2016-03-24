@@ -1,3 +1,3 @@
 # Hello---World
 My first repository ih GitHub
-I love :coffe:, :code:, :cake:, :chokolate: and my boy!
+I love :coffee:, code, :cake:, :chocolate: and my boy!
